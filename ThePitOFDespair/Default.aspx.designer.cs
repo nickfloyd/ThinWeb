@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ThePitOFDispair {
+namespace ThePitOFDespair {
     
     
     public partial class Default {
